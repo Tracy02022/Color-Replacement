@@ -1,11 +1,5 @@
 #pragma once
-/**
- * Author:      Dr. S. Gothard
- * Date:        1/24/2011
- * Purpose:     Written for 2011 Fall CS 400/600 Project 4.
- * Description: Prints status information after regular intervals.
- */
-//copy from my teahcer
+
 #include <string>
 using std::string;
 
