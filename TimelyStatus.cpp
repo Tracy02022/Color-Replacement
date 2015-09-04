@@ -1,13 +1,5 @@
 #include "StdAfx.h"
 #include "TimelyStatus.h"
-//copy from my teahcer
-
-/**
- * Author:      Dr. S. Gothard
- * Date:        1/24/2011
- * Purpose:     Written for 2011 Fall CS 400/600 Project 4.
- * Description: Prints status information after regular intervals.
- */
 
 /**
  * Sets the interval and output loation
