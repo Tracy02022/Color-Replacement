@@ -1,10 +1,10 @@
 // project3.cpp : Defines the entry point for the console application.
 //
-//Ming Chen Dongyu Li
+//Dongyu Li
 #include "stdafx.h"
 #include"ColorReplacement.h"
 
-//Ming Chen &Dongyu Li
+//Dongyu Li
 int _tmain(int argc, _TCHAR* argv[])
 {
    ColorReplacement processor;
