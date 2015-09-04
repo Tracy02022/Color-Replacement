@@ -1,8 +1,4 @@
-//Ming Chen &Dongyu Li
-/* copy teacher's methods to match this project
-   readImage(),printChangedImage()
-   and performRequestedModifications() 
-   have been changed */
+
 
 #include"stdafx.h"
 #include "ColorReplacement.h"
