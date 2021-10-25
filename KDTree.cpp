@@ -85,6 +85,7 @@ void KDTree::destroySubtree(TreeNode *node)
 	 destroySubtree(node->right);
 	 delete node;
 	 node=nullptr;
+	 NodeNum--;	// decrement the number of nodes after deleting one node
  }
 KDTree::~KDTree()
 {
